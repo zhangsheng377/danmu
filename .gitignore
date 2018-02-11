@@ -3,3 +3,4 @@ dist/*
 danmu.egg-info/*
 *.pyc
 *.swp
+.idea/
